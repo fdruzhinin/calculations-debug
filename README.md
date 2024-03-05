@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <style>
-     ol, li {
-      list-style: none;
-    }
-    /*
-    ::marker {
-      display: none;
-    } */
-  </style>
+
 </head>
 
 <body>
